@@ -1,0 +1,82 @@
+{
+  "name": "Weekling.net",
+  "short_name": "Weekling",
+  "theme_color": "#4153B8",
+  "background_color": "#4153B8",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "display_override": ["window-controls-overlay"],
+  "related_applications": [
+     {
+       "platform": "webapp",
+       "url": "https://www.weekling.net/manifest.webmanifest"
+     }
+  ],
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "assets/icons/android/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/windows/logo.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+    "screenshots": [
+      {
+        "src": "assets/screenshots/desktop/vote.png",
+        "sizes": "1919x989",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "assets/screenshots/desktop/results.png",
+        "sizes": "1919x989",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "assets/screenshots/desktop/homepage.png",
+        "sizes": "1919x989",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "assets/screenshots/desktop/day-view.png",
+        "sizes": "1919x989",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "assets/screenshots/mobile/vote.png",
+        "sizes": "504x862",
+        "type": "image/png",
+        "form_factor": "narrow"
+      },
+      {
+        "src": "assets/screenshots/mobile/results.png",
+        "sizes": "504x862",
+        "type": "image/png",
+        "form_factor": "narrow"
+      },
+      {
+        "src": "assets/screenshots/mobile/homepage.png",
+        "sizes": "504x862",
+        "type": "image/png",
+        "form_factor": "narrow"
+      },
+      {
+        "src": "assets/screenshots/mobile/day-view.png",
+        "sizes": "504x862",
+        "type": "image/png",
+        "form_factor": "narrow"
+      }
+    ]
+
+}
