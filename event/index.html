@@ -1,9 +1,13 @@
 <script>
-  // Use history.pushState to keep the URL intact
-  window.history.pushState({}, '', '/event');
+  // Get the current path and query string
+  const currentPath = window.location.pathname;
+  const queryString = window.location.search;
 
-  // Fetch the content of the main index.html file
-  fetch('/')
+  // Use history.pushState to keep the URL intact, including query parameters
+  window.history.pushState({}, '', currentPath + queryString);
+
+  // Fetch the content of the main index.html file, including the query parameters
+  fetch('/' + queryString)
     .then(response => response.text())
     .then(html => {
       // Replace the current document's content with the fetched HTML
