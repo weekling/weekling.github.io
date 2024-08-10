@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1722968357451,
+  "timestamp": 1723289743295,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,9 +13,10 @@
       "urls": [
         "/favicon.png",
         "/index.html",
-        "/main.523da07eb59ab9ca.js",
+        "/main.82833dfa7f8242f4.js",
         "/manifest.webmanifest",
         "/polyfills.27b483c631608cc5.js",
+        "/redirect.js",
         "/runtime.8a62f20eeb40d0ab.js",
         "/service-worker.js",
         "/styles.230de77f96fe380e.css"
@@ -30,6 +31,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/404.html",
         "/assets/app-icon-512.png",
         "/assets/config.ts",
         "/assets/icons/android/badge-old.png",
@@ -43,6 +45,11 @@
         "/assets/logo.png",
         "/assets/mascot.png",
         "/assets/mascot_construction.png",
+        "/assets/redirect/event/details/index.html",
+        "/assets/redirect/event/index.html",
+        "/assets/redirect/events/index.html",
+        "/assets/redirect/new/index.html",
+        "/assets/redirect/redirect.js",
         "/assets/screenshots/desktop/day-view.png",
         "/assets/screenshots/desktop/homepage.png",
         "/assets/screenshots/desktop/results.png",
@@ -74,6 +81,7 @@
     }
   ],
   "hashTable": {
+    "/assets/404.html": "23d37e8c29a6913c5eff592821a71aeb0a563208",
     "/assets/app-icon-512.png": "166fd7522b5f651cd0be6ee3140b4d1c49e5c712",
     "/assets/config.ts": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/assets/icons/android/badge-old.png": "c921a9e07310e5591798397193d9a87a69892244",
@@ -87,6 +95,11 @@
     "/assets/logo.png": "19a8a01b3aa645cb50416b89b3b6ce6a58d9af53",
     "/assets/mascot.png": "c45463e9e9b3beb1a28ed0f0d50d8bb02a64a563",
     "/assets/mascot_construction.png": "4f05cafcc5f79de490627bac5cc7cc8dc9f4f6f1",
+    "/assets/redirect/event/details/index.html": "23d37e8c29a6913c5eff592821a71aeb0a563208",
+    "/assets/redirect/event/index.html": "23d37e8c29a6913c5eff592821a71aeb0a563208",
+    "/assets/redirect/events/index.html": "23d37e8c29a6913c5eff592821a71aeb0a563208",
+    "/assets/redirect/new/index.html": "23d37e8c29a6913c5eff592821a71aeb0a563208",
+    "/assets/redirect/redirect.js": "cb0d28ce898ecfeeb7a62792329c12bb3ed181ac",
     "/assets/screenshots/desktop/day-view.png": "680004bf243e84a171c10442765da7776950f8f8",
     "/assets/screenshots/desktop/homepage.png": "b1e52ded1c10c8b6226693553487e67308535940",
     "/assets/screenshots/desktop/results.png": "27d4906ee31c1baa72dc7a8839810c8fd4d66aa4",
@@ -98,10 +111,11 @@
     "/assets/tutorial/mobile.gif": "999d64c9cf862366ad77e315063cb6bc3936d7e3",
     "/assets/tutorial/pc.gif": "65dcb31c1463d06932904f1dc7cb9b0395777a75",
     "/favicon.png": "96992a13361f3a2e24f53d5da0deb0d5cad2b33e",
-    "/index.html": "4dbbb8bde03f37301fad62f1f16f68dd124f5dd4",
-    "/main.523da07eb59ab9ca.js": "7635bb3ab21605d85300029e5823f3d23a6399d7",
+    "/index.html": "a04a424b2dd12dd39639d1edac22146d3ea690c2",
+    "/main.82833dfa7f8242f4.js": "564359b6da1864425976d1bd50856d80e2b0bf71",
     "/manifest.webmanifest": "c60d6f8dab2dd5f7438c931d2b6f7fe915c0d701",
     "/polyfills.27b483c631608cc5.js": "00d0ece307ac41ac07b64a1df7f5829b8a192d0b",
+    "/redirect.js": "cb0d28ce898ecfeeb7a62792329c12bb3ed181ac",
     "/runtime.8a62f20eeb40d0ab.js": "db4268a1766681636dc16d419a15881014cab43e",
     "/service-worker.js": "5ad55ba89ebfefd7d7cda81c09f4ac3bf3ddf5f3",
     "/styles.230de77f96fe380e.css": "b549797fdb7af2ed112dcf1c9a74d676d3ddf991"
