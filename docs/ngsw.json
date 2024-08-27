@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1723289743295,
+  "timestamp": 1724766270896,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.png",
         "/index.html",
-        "/main.82833dfa7f8242f4.js",
+        "/main.4ca092c6dc8d7d48.js",
         "/manifest.webmanifest",
         "/polyfills.27b483c631608cc5.js",
         "/redirect.js",
@@ -34,6 +34,7 @@
         "/assets/404.html",
         "/assets/app-icon-512.png",
         "/assets/config.ts",
+        "/assets/error.png",
         "/assets/icons/android/badge-old.png",
         "/assets/icons/android/badge.png",
         "/assets/icons/android/logo-notif.pdn",
@@ -84,6 +85,7 @@
     "/assets/404.html": "23d37e8c29a6913c5eff592821a71aeb0a563208",
     "/assets/app-icon-512.png": "166fd7522b5f651cd0be6ee3140b4d1c49e5c712",
     "/assets/config.ts": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/error.png": "47c6f54eddbca45da1356382ca94109a77de0659",
     "/assets/icons/android/badge-old.png": "c921a9e07310e5591798397193d9a87a69892244",
     "/assets/icons/android/badge.png": "eea8e20d38a8af462acee1c4abfb52876d6a5bd6",
     "/assets/icons/android/logo-notif.pdn": "626258401ea65816bf7ff8165e800a89ffa91e91",
@@ -111,8 +113,8 @@
     "/assets/tutorial/mobile.gif": "999d64c9cf862366ad77e315063cb6bc3936d7e3",
     "/assets/tutorial/pc.gif": "65dcb31c1463d06932904f1dc7cb9b0395777a75",
     "/favicon.png": "96992a13361f3a2e24f53d5da0deb0d5cad2b33e",
-    "/index.html": "a04a424b2dd12dd39639d1edac22146d3ea690c2",
-    "/main.82833dfa7f8242f4.js": "564359b6da1864425976d1bd50856d80e2b0bf71",
+    "/index.html": "eb8b90fb615d8da045e88d265d9c59042fdb0513",
+    "/main.4ca092c6dc8d7d48.js": "2f0ca98c54087bf5370ccb43f529e24437846eb3",
     "/manifest.webmanifest": "c60d6f8dab2dd5f7438c931d2b6f7fe915c0d701",
     "/polyfills.27b483c631608cc5.js": "00d0ece307ac41ac07b64a1df7f5829b8a192d0b",
     "/redirect.js": "cb0d28ce898ecfeeb7a62792329c12bb3ed181ac",
