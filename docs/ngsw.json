@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1725908733972,
+  "timestamp": 1725909332808,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.png",
         "/index.html",
-        "/main.f8963eada84f80c1.js",
+        "/main.9b68c871e1bf36b6.js",
         "/manifest.webmanifest",
         "/polyfills.27b483c631608cc5.js",
         "/redirect.js",
@@ -113,8 +113,8 @@
     "/assets/tutorial/mobile.gif": "999d64c9cf862366ad77e315063cb6bc3936d7e3",
     "/assets/tutorial/pc.gif": "65dcb31c1463d06932904f1dc7cb9b0395777a75",
     "/favicon.png": "96992a13361f3a2e24f53d5da0deb0d5cad2b33e",
-    "/index.html": "e97a19f1729d608499f6b0dd0cbe89d37809bac9",
-    "/main.f8963eada84f80c1.js": "7f76be370f6830b8c0790048200ee49b83bb3b6d",
+    "/index.html": "d4e999681a4aa2d29ce1fb5f62256a590232d979",
+    "/main.9b68c871e1bf36b6.js": "41a4902169e477a2633bd0b1d4dd9a14f6ac3710",
     "/manifest.webmanifest": "c60d6f8dab2dd5f7438c931d2b6f7fe915c0d701",
     "/polyfills.27b483c631608cc5.js": "00d0ece307ac41ac07b64a1df7f5829b8a192d0b",
     "/redirect.js": "cb0d28ce898ecfeeb7a62792329c12bb3ed181ac",
