@@ -1,7 +1,6 @@
 importScripts('./ngsw-worker.js');
 
 self.addEventListener('push', event => {
-  console.log("Push event received")
   const data = event.data.json();
   self.registration.showNotification(data.title, {
     icon: 'assets/icons/android/logo-notif.png',
