@@ -355,6 +355,9 @@ Apache-2.0
    END OF TERMS AND CONDITIONS
 
 
+ngx-cookie-service
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
