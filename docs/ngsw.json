@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1730216314884,
+  "timestamp": 1730283545472,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.png",
         "/index.html",
-        "/main.98eb5e767fd4569d.js",
+        "/main.7837917c54d11b92.js",
         "/manifest.webmanifest",
         "/polyfills.27b483c631608cc5.js",
         "/redirect.js",
@@ -100,7 +100,7 @@
     "/assets/redirect/event/details/index.html": "23d37e8c29a6913c5eff592821a71aeb0a563208",
     "/assets/redirect/event/index.html": "72685193f85dba11f9a4fe504b83bd4cdd9868c8",
     "/assets/redirect/events/index.html": "72685193f85dba11f9a4fe504b83bd4cdd9868c8",
-    "/assets/redirect/new/index.html": "72685193f85dba11f9a4fe504b83bd4cdd9868c8",
+    "/assets/redirect/new/index.html": "59e2bbe8795b11a84d857a01b25d63ac5e763a8f",
     "/assets/redirect/redirect.js": "cb0d28ce898ecfeeb7a62792329c12bb3ed181ac",
     "/assets/screenshots/desktop/day-view.png": "680004bf243e84a171c10442765da7776950f8f8",
     "/assets/screenshots/desktop/homepage.png": "b1e52ded1c10c8b6226693553487e67308535940",
@@ -113,8 +113,8 @@
     "/assets/tutorial/mobile.gif": "999d64c9cf862366ad77e315063cb6bc3936d7e3",
     "/assets/tutorial/pc.gif": "65dcb31c1463d06932904f1dc7cb9b0395777a75",
     "/favicon.png": "96992a13361f3a2e24f53d5da0deb0d5cad2b33e",
-    "/index.html": "f87484db902d0746ef057b65e0c16d201ca1bc73",
-    "/main.98eb5e767fd4569d.js": "94a4349f82b3f95c358acd8f19cc00506c477de7",
+    "/index.html": "f341a6a3c737e75ca958d72e30bf125162521305",
+    "/main.7837917c54d11b92.js": "255025f97027989c96a84f9ca5f47a68929167b5",
     "/manifest.webmanifest": "c60d6f8dab2dd5f7438c931d2b6f7fe915c0d701",
     "/polyfills.27b483c631608cc5.js": "00d0ece307ac41ac07b64a1df7f5829b8a192d0b",
     "/redirect.js": "cb0d28ce898ecfeeb7a62792329c12bb3ed181ac",
